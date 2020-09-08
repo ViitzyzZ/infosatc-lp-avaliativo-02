@@ -1,3 +1,4 @@
+#Cópia de listas
 Listadejogos1 = ["Rainbow Six", "Fifa", "Forza Horizon", "Gta"]
 print("Minha Lista de jogos: ",Listadejogos1)
 
