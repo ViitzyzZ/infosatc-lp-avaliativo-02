@@ -4,3 +4,4 @@ Atividade avaliativa 02 da disciplina de linguagem de programação do curso t
 - Nome da disciplina: Linguagem de Programação.
 - Linguagem: Python.
 - Descrição: Os exercício acima foram realizados na disciplina de Linguagem de Programação, orientada pela professora  Francine Cardoso.
+<html> <p Align "Center"> <img src = "logosatc1.jpg"> </p> </html>
